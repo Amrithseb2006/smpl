@@ -1,0 +1,368 @@
+.body4{
+    height: 770px;
+    width: 1200px;
+    display: flex;
+    background-color: white;
+    position: relative;
+}
+.timeline{
+    height: 400px;
+    width: 570px;
+    background-color: white;
+    color: #182153;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: right;
+
+}
+
+.linedot{
+    height: 750px;
+    width: 2px;
+    right: 600px;
+    background-color: black;
+    position: absolute;
+}
+
+.dot1{
+    height: 50px;
+    width: 2px;
+    transform: rotate(90deg);
+    background-color: black;
+    left: 23.9px;
+    top: 29px;
+    position: absolute;
+}
+.dot2{
+    height: 50px;
+    width: 2px;
+    transform: rotate(90deg);
+    background-color: black;
+    left: 23.9px;
+    top: 258px;
+    position: absolute;
+}
+.dot3{
+    height: 50px;
+    width: 2px;
+    transform: rotate(90deg);
+    background-color: black;
+    left: 23.9px;
+    top: 485px;
+    position: absolute;
+}
+
+.exp{
+    height: 500px;
+    width: 570px;
+    background-color: white;
+}
+.exp1{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #182153;
+    left: 670px;
+    top: 35px;
+    position: absolute;
+}
+
+.exp2{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #182153;
+    left: 670px;
+    top: 75px;
+    position: absolute;
+}
+.exp3{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #182153;
+    left: 670px;
+    top: 110px;
+    position: absolute;
+    width: 220px;
+    text-align: justify;
+}
+.exp4{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #182153;
+    left: 670px;
+    top: 268px;
+    position: absolute;
+}
+.exp5{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #182153;
+    left: 670px;
+    top: 310px;
+    position: absolute;
+}
+.exp6{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #182153;
+    left: 670px;
+    top: 350px;
+    position: absolute;
+    width: 220px;
+    text-align: justify;
+}
+.exp7{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #182153;
+    left: 670px;
+    top: 495px;
+    position: absolute;
+}
+.exp8{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #182153;
+    left: 670px;
+    top: 530px;
+    position: absolute;
+}
+.exp9{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #182153;
+    left: 670px;
+    top: 560px;
+    position: absolute;
+    width: 220px;
+    text-align: justify;
+}
+.body5{
+    background-color: rgb( 24,33,83 );
+    width: 100%;
+    height: 90px;
+    border-bottom:1px solid white;
+    position: relative; 
+}
+.body5ele1{
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+ 
+    top: 30px;
+    left: 550px;
+    position: absolute;
+}
+.body6{
+    height: 800px;
+    width: 100%;
+    position: relative;
+    flex-wrap: wrap;
+}
+.img4{
+    opacity: 0.6;
+    width: 100%;
+    height: 750px;
+    position: absolute;
+}
+.body6ele1{
+    background-color: white;
+    height: 75px;
+    width: 350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 150px;
+    top: 75px;
+}
+.txt1{
+    position: absolute;
+    left: 270px;
+    top: 100px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.htmlimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 370px;
+    top: 90px;
+   
+}
+.body6ele2{
+    background-color: white;
+    height: 75px;
+    width: 350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 700px;
+    top: 75px;
+}
+.txt2{
+    position: absolute;
+    left: 820px;
+    top: 100px;
+    font-family: sans-serif;
+    font-size: 25px;
+    
+}
+.cssimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 890px;
+    top: 90px;
+}
+.body6ele3{
+    background-color: white;
+    height: 75px;
+    width: 350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 150px;
+    top: 250px;
+}
+.txt3{
+    position: absolute;
+    left: 240px;
+    top: 270px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.pythonimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 390px;
+    top: 260px;
+}
+.body6ele4{
+    background-color: white;
+    height: 75px;
+    width: 350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 700px;
+    top: 250px;
+}
+.txt4{
+    position: absolute;
+    left: 820px;
+    top: 280px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.aiimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 870px;
+    top: 275px;
+}
+.body6ele5{
+    background-color: white;
+    height: 75px;
+    width:350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 150px;
+    top: 425px;
+}
+.txt5{
+    position: absolute;
+    left: 270px;
+    top: 450px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.cimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 40px;
+    bottom: 0px;
+}
+.body6ele6{
+    background-color: white;
+    height: 75px;
+    width: 350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 430px;
+    top: -26px;
+}
+.txt6{
+    position: absolute;
+    left: 540px;
+    top: -4px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.cpimg{
+    position: absolute;
+    height: 40px;
+    width: 45px;
+    left: 60px;
+    top: -6px;
+}
+.body6ele7{
+    background-color: white;
+    height: 75px;
+    width:350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: -660px;
+    top: 170px;
+}
+.txt7{
+    position: absolute;
+    left: -640px;
+    top: 200px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.mlimg{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 280px;
+    bottom: 100px;
+}
+.body6ele8{
+    background-color: white;
+    height: 75px;
+    width:350px;
+    position: absolute;
+    opacity: 0.7;
+    font-weight: 1000;
+    left: 530px;
+    top: -30px;
+}
+.txt8{
+    position: absolute;
+    left: 640px;
+    top: -5px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.sqlimg{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 80px;
+    bottom: -10px;
+}
+.body7{
+    height: 500px;
+    width: 1078px;
+    background-color: #f1f1f1;
+    color: #182153;
+    font-family: sans-serif;
+    font-size: 25px;
+}

@@ -1,0 +1,32 @@
+.header{
+    background-color: white;
+    display: flex;
+    
+    position: fixed;
+    position: static;
+    
+}
+.name{
+    color: #182153;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding-right: 450px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    position: sticky;
+}
+.experience{
+    font-family: sans-serif;
+    padding-right: 40px;
+    padding-top: 45px;
+    font-size: large;
+    position: sticky;
+    color: #182153;
+}
+
+.experience:hover{
+    color: grey;
+}
+
